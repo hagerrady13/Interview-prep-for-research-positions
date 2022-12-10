@@ -67,7 +67,7 @@ To prepare:
 Amazon behavioral Qs: https://faangpath.com/blog/amazon-behavioral-interview-questions/ 
 
 
-General Resources:
+## 8. General Resources:
 - [ML interviews book](https://huyenchip.com/ml-interviews-book/)
 - [ML interview preparation](https://github.com/meagmohit/ml-quant-interview-prep)
 - [The complete FAANG preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
