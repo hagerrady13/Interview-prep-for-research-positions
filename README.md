@@ -68,12 +68,12 @@ Amazon behavioral Qs: https://faangpath.com/blog/amazon-behavioral-interview-que
 
 
 General Resources:
-ML interviews book: https://huyenchip.com/ml-interviews-book/ 
-ML interview preparation: https://github.com/meagmohit/ml-quant-interview-prep 
-The complete FAANG preparation: https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
-ML study plan: https://github.com/khangich/machine-learning-interview 
-Coding Qs patterns: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed 
-ML engineer interview checklist: https://mlengineer.io/machine-learning-engineer-onsite-interview-one-week-checklist-cfd19d57fa02 
+- [ML interviews book](https://huyenchip.com/ml-interviews-book/)
+- [ML interview preparation](https://github.com/meagmohit/ml-quant-interview-prep)
+- [The complete FAANG preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+- [ML study plan](https://github.com/khangich/machine-learning-interview)
+- [Coding Qs patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [ML engineer interview checklist](https://mlengineer.io/machine-learning-engineer-onsite-interview-one-week-checklist-cfd19d57fa02)
 
 
 Below are detailed examples of the interview process in some companines:
