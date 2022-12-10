@@ -4,13 +4,13 @@ This repo includes interview preparation materials for research positions: AI re
 
 "Passing the interviews in big tech is 80% preparation", they say.
 
-I tried to categorize the interview types; here is my categorization
+I tried to categorize the interview types based on my recent job hunting mid-2022; below is my categorization:
 
 ## 1. SWE Coding: two types
 ### 1.1 Competitive programming (Most common)
 Resources to prepare: LeetCode, Interviewbit
 Most helpful: https://leetcode.com/study-plan/algorithm/ 
-Goal: Solve 2 medium problems in 40 minutes
+You goal should be: Solving 2 medium problems in 40 minutes
 
 
 ### 1.2 Everyday Programming (Less common)
