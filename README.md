@@ -17,7 +17,8 @@ You goal should be: Solving 2 medium problems in 40 minutes
 Generic questions about coding and practicies such as pythong tips, git, threading, general SWE skills, etc.
 
 ## 2. System Design:
-You get one case study about a system (not ML) and you need to walk through all components. Example: Design the tinyurl system
+You get one case study about a system (not ML) and you need to walk through all components. //
+Example: Design the tinyurl system//
 **Top Resources:**
 - Educative.io: [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - Educative.io: [Grokking the advanced system design interview](https://www.educative.io/courses/grokking-adv-system-design-intvw)
