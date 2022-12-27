@@ -24,8 +24,8 @@ You get one case study about a system (not ML) and you need to walk through all 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer#system-design-topics-start-here)
 - System Design Interview - An Insider's Guide Book by Alex Xu
 
-Others:
-https://www.interviewbit.com/system-design-interview-questions/ 
+Others: //
+https://www.interviewbit.com/system-design-interview-questions/ //
 https://www.interviewbit.com/courses/system-design/system-design-concepts#problems 
 
 ## 3. ML System Design (or similarily use-case interview)
