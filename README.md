@@ -86,5 +86,5 @@ Below are detailed examples of the interview process in some companines:
 - Virtual on-site interviews: 1) System Design, 2) ML System Design, 3) Behavioral, 4) 2 SWE coding
 
 ### Microsoft Research: Research Software Engineer 2
-- 1 Screening interview: SWE (everyday programming)
+- 1 Screening interview: SWE
 - Virtual on-site interviews: 1) ML system design + SWE coding, 2) SWE coding, 3) Behavioral, 4) 2 Research interviews
