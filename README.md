@@ -8,8 +8,8 @@ I tried to categorize the interview types based on my recent job hunting mid-202
 
 ## 1. SWE Coding: two types
 ### 1.1 Competitive programming (Most common)
-Resources to prepare: LeetCode, Interviewbit // 
-Most helpful: https://leetcode.com/study-plan/algorithm/ //
+Resources to prepare: LeetCode, Interviewbit <br/>
+Most helpful: https://leetcode.com/study-plan/algorithm/ <br/>
 You goal should be: Solving 2 medium problems in 40 minutes
 
 
@@ -17,21 +17,21 @@ You goal should be: Solving 2 medium problems in 40 minutes
 Generic questions about coding and practicies such as pythong tips, git, threading, general SWE skills, etc.
 
 ## 2. System Design:
-You get one case study about a system (not ML) and you need to walk through all components. //
-Example: Design the tinyurl system//
+You get one case study about a system (not ML) and you need to walk through all components. <br/>
+Example: Design the tinyurl system <br/>
 **Top Resources:**
 - Educative.io: [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - Educative.io: [Grokking the advanced system design interview](https://www.educative.io/courses/grokking-adv-system-design-intvw)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer#system-design-topics-start-here)
 - System Design Interview - An Insider's Guide Book by Alex Xu
 
-Others: //
-https://www.interviewbit.com/system-design-interview-questions/ //
+Others: <br/>
+https://www.interviewbit.com/system-design-interview-questions/ <br/>
 https://www.interviewbit.com/courses/system-design/system-design-concepts#problems 
 
 ## 3. ML System Design (or similarily use-case interview)
-You get an ML real-world problem that you need to tackle // 
-This goes from data preparation, preprocessing, feature selection, choosing models, evaluation, deployment, A/B testing //
+You get an ML real-world problem that you need to tackle <br/> 
+This goes from data preparation, preprocessing, feature selection, choosing models, evaluation, deployment, A/B testing <br/>
 Example: Design youtube recommendation system
 
 **Top Resources:**
@@ -40,7 +40,7 @@ Example: Design youtube recommendation system
 
 
 ## 4. AI Coding:
-Never clear what to expect, but always ask //
+Never clear what to expect, but always ask <br/>
 Most probably it will be about code simple machine learning : Activation functions, linear regression, gradient descent, metrics (precision, recall, etc), MLP, decision trees, K-means, loss functions, etc. so, for most of these, you should know the equation, and know how to code them in python or pytorch.
 
 ## 5. DL Research interviews:
